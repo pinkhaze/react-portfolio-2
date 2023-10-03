@@ -1,0 +1,19 @@
+nav li.active {
+    font-weight: bold;
+}
+
+.link {
+    border: solid 3px white;
+    color: white;
+}
+
+.link:hover {
+    color: purple;
+}
+
+  
+
+
+
+
+
