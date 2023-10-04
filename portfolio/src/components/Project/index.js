@@ -25,16 +25,13 @@ export default function Project ({projects}) {
                             </Card.Header>
                             <Card.Meta>{project.technologies}</Card.Meta>
                             <Card.Description>{project.description}</Card.Description>
-                        </Card.Content>
-                        <div>
                             <a href={project.repository}>
-                                <Icon name='github' />
+                                <Icon className="big" name='github' />
                             </a>
-                        </div>
+                        </Card.Content>
                     </Card>
                 </Card.Group>
             ))}
-           
         </div>
     )
 }

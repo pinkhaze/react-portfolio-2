@@ -18,7 +18,7 @@ export default function Footer () {
     <footer style={styles.footer}>
         <div className="ui container centered grid">
         <div>
-        <i className="huge github icon"></i>
+        <i className="huge github square icon"></i>
         </div>
 
         </div>

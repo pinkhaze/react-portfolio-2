@@ -11,8 +11,8 @@ body {
   -moz-osx-font-smoothing: grayscale;
   width: 100%;
   background-image: url("assets/images/background5.png");
-  background-size: cover;
-  background-repeat: no-repeat;
+  background-size: contain;
+  background-repeat: repeat;
   background-position: center;
   min-height: 100vh;
   padding-bottom: 60px;
