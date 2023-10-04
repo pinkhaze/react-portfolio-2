@@ -1,6 +1,7 @@
 import WeatherDashboardImg from './assets/images/weather-dashboard.png';
 import MakeMyDrinkImg from './assets/images/make-my-drink.png';
 
+
 const projects = [
   {
     title: 'Make My Drink',
