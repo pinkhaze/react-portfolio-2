@@ -22,7 +22,7 @@ const About = () => {
                     <div className="eight wide column">
                         <h3 className="ui header">HELLO.</h3>
                         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur lobortis, leo ac euismod dapibus, eros purus ultrices metus, at posuere risus nulla varius nisl. Integer lacinia tristique massa, quis faucibus eros posuere eu. Phasellus efficitur interdum tincidunt. Praesent semper facilisis libero ac malesuada. </p>
-                        <h3 className="ui header">'I'M MONIKA.</h3>
+                        <h3 className="ui header">I'M MONIKA.</h3>
                         <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur lobortis, leo ac euismod dapibus, eros purus ultrices metus, at posuere risus nulla varius nisl. Integer lacinia tristique massa, quis faucibus eros posuere eu. Phasellus efficitur interdum tincidunt. Praesent semper facilisis libero ac malesuada. </p>
                     </div>
                     <div className="six wide right floated column">
