@@ -38,8 +38,9 @@ export default function Navbar () {
         </ul>
       </nav>
   )
-
 }
+
+// Credit: Web Dev Simplified at https://www.youtube.com/watch?v=SLfhMt5OUPI
 function NavLink({ to, children, ...props }) {
   const resolvedPath = useResolvedPath(to)
   const isActive = useMatch({ path: resolvedPath.pathname, end:true })

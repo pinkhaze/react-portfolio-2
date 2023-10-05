@@ -18,7 +18,15 @@ export default function Footer () {
     <footer style={styles.footer}>
         <div className="ui container centered grid">
         <div>
-        <i className="huge github square icon"></i>
+            <a href="https://github.com/pinkhaze">
+                <i className="huge github square icon"></i>
+            </a>
+            <a href="https://www.linkedin.com/">
+                <i className="huge linkedin icon"></i>
+            </a>
+            <a href="https://stackoverflow.com/">
+                <i className="huge stack overflow icon"></i>
+            </a>
         </div>
 
         </div>
