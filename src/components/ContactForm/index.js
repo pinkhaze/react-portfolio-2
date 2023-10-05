@@ -1,10 +1,10 @@
-import React, { useState} from 'react';
+import React from 'react';
 import { Form, Input, TextArea, Button } from 'semantic-ui-react'
 
 function Contact() {
   
     return (
-        <Form className='form' onSubmit={handleSubmit}>
+        <Form className='form'>
             <Form.Group widths="equal">
                 <Form.Field
                     id='form-input-control-name'
@@ -12,8 +12,6 @@ function Contact() {
                     label='Name'
                     type="text"
                     name="name"
-                    defaultValue={name}
-                    onBlur={handleChange}
                 />
             </Form.Group>
 
@@ -24,8 +22,6 @@ function Contact() {
                     placeholder='john@doe.com'
                     type="email"
                     name="email"
-                    defaultValue={email}
-                    onBlur={handleChange}
                 />
 
                 <Form.Field
@@ -34,8 +30,6 @@ function Contact() {
                     label='Mesage'
                     type="text"
                     name="message"
-                    defaultValue={message}
-                    onBlur={handleChange}
                 />
                 
                 <Form.Field
