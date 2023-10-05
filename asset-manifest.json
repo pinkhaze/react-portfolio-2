@@ -1,18 +1,22 @@
 {
   "files": {
     "main.css": "/react-portfolio-2/static/css/main.fe8f02da.css",
-    "main.js": "/react-portfolio-2/static/js/main.d1677578.js",
+    "main.js": "/react-portfolio-2/static/js/main.7aca61ba.js",
     "static/media/background5.png": "/react-portfolio-2/static/media/background5.615fd777eb939c67a807.png",
     "static/media/make-my-drink.png": "/react-portfolio-2/static/media/make-my-drink.84e39e9f34d24d87f48b.png",
+    "static/media/pursuit-of-music.png": "/react-portfolio-2/static/media/pursuit-of-music.dd6b0b47c9b3745d0916.png",
     "static/media/weather-dashboard.png": "/react-portfolio-2/static/media/weather-dashboard.f3124dd01f56092edec4.png",
+    "static/media/workday-scheduler.png": "/react-portfolio-2/static/media/workday-scheduler.09cf08144a4dda435e66.png",
     "static/media/profile-photo.png": "/react-portfolio-2/static/media/profile-photo.2ef033570d2230ab0eaf.png",
     "static/media/monika-racia-resume.pdf": "/react-portfolio-2/static/media/monika-racia-resume.c86e15a1a788fb73877f.pdf",
+    "static/media/pwa-text-editor.png": "/react-portfolio-2/static/media/pwa-text-editor.5a4747f25b8aa2e4e0e9.png",
+    "static/media/note-taker.png": "/react-portfolio-2/static/media/note-taker.8d37882360c013943b8c.png",
     "index.html": "/react-portfolio-2/index.html",
     "main.fe8f02da.css.map": "/react-portfolio-2/static/css/main.fe8f02da.css.map",
-    "main.d1677578.js.map": "/react-portfolio-2/static/js/main.d1677578.js.map"
+    "main.7aca61ba.js.map": "/react-portfolio-2/static/js/main.7aca61ba.js.map"
   },
   "entrypoints": [
     "static/css/main.fe8f02da.css",
-    "static/js/main.d1677578.js"
+    "static/js/main.7aca61ba.js"
   ]
 }
