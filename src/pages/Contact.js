@@ -27,7 +27,6 @@ const Contact = () => {
                 </div>
                 <div style={styles.form} className="six wide centered column">
                     <ContactForm />
-
                 </div>
             </div>
             <Divider style={styles.divider} vertical></Divider>
